@@ -5,6 +5,7 @@ public class LeadClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Lead First Commit");
+		System.out.println("1st change");
 
 	}
 
