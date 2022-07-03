@@ -1,10 +1,10 @@
 
-public class LeadClass {
+public class LeadClass3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("My Branch");
+		System.out.println("My Branch2");
 
 	}
 
